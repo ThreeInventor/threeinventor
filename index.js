@@ -1,0 +1,2 @@
+
+initWorkspace({ toolbox: toolbox });
